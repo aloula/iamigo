@@ -2,6 +2,8 @@
 
 Um CLI para interagir com a IA da Meta (Ollama), funcionando como assistente para tarefas variadas.
 
+![Screenshot](screenshot.jpg)
+
 
 #### Pré-requisitos
 
